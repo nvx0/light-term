@@ -8,7 +8,7 @@ LightTerm is based on windows terminal so you can use all commands like you use 
 Issues and contributions are welcome!
 
 # Download
-<button href="https://github.com/falseCloud/light-term/releases/download/1.0.0/light-term-pre.zip">Click me to download</button>
+<a href="https://github.com/falseCloud/light-term/releases/download/1.0.0/light-term-pre.zip">Click me to download</a>
 
 
 
