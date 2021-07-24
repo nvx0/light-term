@@ -1,4 +1,4 @@
-# light-term
+# LightTerm
 Light and easy to use terminal based on windows command prompt
 
 # Easy to use and flexible
