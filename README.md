@@ -1,5 +1,3 @@
-<img style="img-align:center;" src="https://media.discordapp.net/attachments/824357340856975381/868756703712264203/unknown.png">
-
 # LightTerm
 Light and easy to use terminal based on windows command prompt
 
@@ -11,6 +9,9 @@ Issues and contributions are welcome!
 
 # Download
 <a href="https://github.com/falseCloud/light-term/releases/download/1.0.0/light-term-pre.zip">Click me to download</a>
+
+# Examples
+<img style="img-align:center;" src="https://media.discordapp.net/attachments/824357340856975381/868756703712264203/unknown.png">
 
 
 
